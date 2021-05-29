@@ -2,11 +2,11 @@
 Project repository for Interaction Design module Spatial Interaction 2021 at Zurich University of the Arts.
 
 # Students
-Baran Güneysel @dasnaar
+Baran Güneysel https://github.com/dasnaar
 
-Mai Watanabe
+Mai Watanabe 
 
-Sebastian Hauser
+Sebastian Hauser https://www.bastihauser.de
 
 Tim Fuchs
 
