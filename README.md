@@ -3,7 +3,10 @@ Project repository for Interaction Design module Spatial Interaction 2021 at Zur
 
 # Students
 Baran Güneysel @dasnaar
+
 Mai Watanabe
+
 Sebastian Hauser
+
 Tim Fuchs
 
