@@ -6,7 +6,7 @@ Baran Güneysel https://github.com/dasnaar
 
 Mai Watanabe 
 
-Sebastian Hauser https://www.bastihauser.de
+Sebastian Hauser https://github.com/edding-3000
 
-Tim Fuchs
+Tim Fuchs https://github.com/criseone
 
