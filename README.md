@@ -4,7 +4,7 @@ Project repository for Interaction Design module Spatial Interaction 2021 at Zur
 # Students
 Baran Güneysel https://github.com/dasnaar
 
-Mai Watanabe 
+Mai Watanabe https://github.com/maiiiiii1234
 
 Sebastian Hauser https://github.com/edding-3000
 
