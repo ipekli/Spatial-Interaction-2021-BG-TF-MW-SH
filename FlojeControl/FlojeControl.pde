@@ -6,7 +6,7 @@ NetAddress target;
 void setup() {
   size(500, 500, FX2D);
 
-  target = new NetAddress("floje-white-cabbage-2da88a.local", 8000);
+  target = new NetAddress("floje-black-onion-2bc196.local", 8000);
   frameRate(10);
 }
 
