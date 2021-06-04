@@ -1,2 +1,2 @@
-#define SECRET_SSID "ipek.li"
+#define SECRET_SSID "ASUS"
 #define SECRET_PASS "internet"
